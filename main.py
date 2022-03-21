@@ -1,0 +1,1 @@
+print('Hacker news')
